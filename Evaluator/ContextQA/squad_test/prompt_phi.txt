@@ -1,0 +1,21 @@
+<|user|>
+Answer the questions.
+
+Question: Who replaced Tim Sloan as CEO of Wells Fargo?
+Answer: Charles Scharf
+
+Question: What is the bus number for Discovery Park?
+Answer: 33
+
+Question: Where was the Shadow Home Secretary caught drinking?
+Answer: the London Overground
+
+Question: Where did Prince Harry introduce Sir Elton John?
+Answer: Amsterdam
+
+Question: Who will play Daniel Hillard/Mrs. Doubtfire in Broadway musical?
+Answer: Rob McClure
+
+Question: {text}<|end|>
+<|assistant|>
+Answer:
